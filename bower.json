@@ -8,11 +8,10 @@
   "main": "combodate.js",
   "ignore": [
     "**/.*",
-    "moment*.js",
     "test"
   ],
-  "dependencies": {
-    "moment": "<=2.5.*"
+      "dependencies": {
+    "momentjs": "<=2.5.*"
   },
   "devDependencies": {
   }
